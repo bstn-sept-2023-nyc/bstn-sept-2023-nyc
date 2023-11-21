@@ -3,13 +3,13 @@
 <h3 align="center">One of many superb educators at the international bootcamp school BrainStation</h3>
 
 
-- 🔭 I’m currently working on **Teaching about portfolios**
+<p align="center">- 🔭 I’m currently working on **Teaching about portfolios**</p>
 
-- 👯 I’m looking to collaborate on **Getting students jobs.**
+<p align="center">- 👯 I’m looking to collaborate on **Getting students jobs.**</p>
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
-</p>
+
+
 
 
 <h3 align="center">Languages and Tools:</h3>
